@@ -3,7 +3,7 @@ An example of using the OTA function of the ESP32
 
 1. Instructions: 
 
-a. Copy both files to a sketch folder with the same name as the file 'ESP32 OTA Basic
+a. Copy both files to a sketch folder with the same name as the file 'ESP32_Basic_OTA
 
 b. Select the 'Credentials' tab and edit these to match your network requirements.
 
