@@ -51,6 +51,7 @@ void setup(){
 
 void loop() {
   ArduinoOTA.handle();
+  yield();
   // Your programme loop from here
   digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
   delay(100);                       // wait for a second
